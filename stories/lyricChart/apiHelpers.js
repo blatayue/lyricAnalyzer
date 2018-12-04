@@ -16,7 +16,7 @@ import querystring from 'querystring'
 const searchGenius = async query => axios.get('https://api.genius.com/search', {
   params: {
   q: query,
-  access_token: process.env.geniusApiKey
+  access_token: process.env.STORYBOOK_geniusApiKey
   }
 })
 .then(response => (

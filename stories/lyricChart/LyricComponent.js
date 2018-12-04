@@ -11,6 +11,8 @@ export const LyricComponent = ({songTitle, width, height}) => {
     const colors = getColors(songData.image) // cross-origin, may need helper funcs
 
     return (
-        <div></div>
+        <svg width={width} height={height}>
+      <rect x={0} y={0} width={width} height={height} fill="#242424" rx={14} />
+      </svg>
     )
 }

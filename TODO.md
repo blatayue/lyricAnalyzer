@@ -1,0 +1,7 @@
+- Goals
+- [ ] Write a relevant README
+- [ ] Hook up graph
+- [ ] Make graph have ***aesthetic***
+- [ ] documentation
+- [ ] commit more often
+- [ ] 
