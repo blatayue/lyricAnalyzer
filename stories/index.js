@@ -1,1 +1,1 @@
-export {} from ''
+export {LyricComponent} from'./lyricChart';

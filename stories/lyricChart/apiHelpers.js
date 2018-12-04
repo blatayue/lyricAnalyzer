@@ -2,7 +2,7 @@ import axios from 'axios'
 import cheerio from 'cheerio'
 import { path, evolve, prop } from 'ramda'
 import querystring from 'querystring'
-require('dotenv').config()
+// require('dotenv').config() // doesn't work with storybook - doing manually
 
 // const makeLastFMRequest = () => ({
 //   uri: "https://ws.audioscrobbler.com/2.0/?",

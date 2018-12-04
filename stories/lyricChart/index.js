@@ -1,0 +1,1 @@
+export {LyricComponent} from './LyricComponent'
