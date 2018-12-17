@@ -1,1 +1,2 @@
-export {LyricComponent} from './LyricComponent'
+export {LyricChart}
+from './LyricChart';
