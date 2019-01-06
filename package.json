@@ -3,28 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@vx/axis": "0.0.181",
-    "@vx/curve": "0.0.165",
-    "@vx/gradient": "0.0.165",
-    "@vx/group": "0.0.170",
-    "@vx/scale": "0.0.179",
-    "@vx/shape": "0.0.181",
-    "@vx/text": "0.0.179",
-    "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.2",
+    "@vx/axis": "^0.0.183",
+    "@vx/curve": "^0.0.182",
+    "@vx/gradient": "^0.0.183",
+    "@vx/group": "^0.0.183",
+    "@vx/scale": "^0.0.182",
+    "@vx/shape": "^0.0.183",
+    "@vx/text": "^0.0.183",
     "d3": "^5.7.0",
-    "dotenv": "^6.1.0",
-    "fetch-suspense": "^1.0.1",
-    "get-image-colors": "^1.8.1",
-    "get-image-pixels": "^1.0.1",
-    "get-rgba-palette": "^2.0.1",
-    "node-fetch": "^2.3.0",
-    "querystring": "^0.2.0",
-    "ramda": "^0.26.1",
+    "fetch-suspense": "^1.0.2",
     "react": "^16.7.0-alpha.2",
     "react-dom": "^16.7.0-alpha.2",
-    "react-scripts": "2.1.1",
-    "stm": "0.0.3"
+    "react-scripts": "^2.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -43,8 +33,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@storybook/addon-knobs": "^4.0.12",
-    "@storybook/react": "^4.0.10"
+    "@storybook/addon-knobs": "^4.1.4",
+    "@storybook/react": "^4.1.4"
   },
   "proxy": "http://localhost:3001"
 }

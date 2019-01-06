@@ -1,2 +1,1 @@
-export {LyricChart}
-from './LyricChart/';
+export {Pop, EDM, Rap, Trap} from './LyricChart'
